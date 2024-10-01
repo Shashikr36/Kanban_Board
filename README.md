@@ -24,7 +24,7 @@ It also preserves the user's customized view even after a page reload, ensuring 
 
 ## Live Demo
 
-Check out the live version of the Kanban board application [here]().
+Check out the live version of the Kanban board application [here](https://kanban-board-one-silk.vercel.app/).
 
 ## Getting Started
 
